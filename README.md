@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience with anything related to Android development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
@@ -28,12 +28,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin%20-05122A?style=flat&logo=kotlin)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=c++)&nbsp;
+![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=c)&nbsp;
+![Android](https://img.shields.io/badge/-Android%20-05122A?style=flat&logo=android)&nbsp;
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basemkhater&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=basemkhater&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=basemkhater&style=for-the-badge">
-</a>
+
+
